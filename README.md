@@ -22,7 +22,7 @@
 
 <table>
   <tr>
-    <td align="center"><img src="https://github.com/user-attachments/assets/db46f740-a682-4a41-83ae-41e797ae31a8" width="100"/><br>C</td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/db46f740-a682-4a41-83ae-41e797ae31a8" width="100"/><br>![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white) </td>
     <td align="center"><img src="https://github.com/user-attachments/assets/3f44dfa4-d325-4c26-a308-972ab27f9cdd" width="100"/><br>C++</td>
     <td align="center"><img src="https://github.com/user-attachments/assets/bf0bb7a1-c7c0-46d6-aba6-23c92239994e" width="100"/><br>Node.js</td>
     <td align="center"><img src="https://github.com/user-attachments/assets/4f2fad10-d7c2-452a-9ef5-0da87d9bc203" width="100"/><br>VBA</td>
