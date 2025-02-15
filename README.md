@@ -1,18 +1,17 @@
 # 👋 Hello, je suis Grégoire Chamorel  
 
 🔍 **Passionné par la tech, la data et l’IA**  
-🎯 **Étudiant à 42 Paris & en reconversion vers le Data Engineering**  
+🎯 **Étudiant à 42 Paris & en reconversion**  
 🚀 **J’aime créer, automatiser et optimiser**  
 
 ---  
 
 ## 🛠 Ce que j’aime faire  
 
-✅ **Jouer avec les données** : Extraction, transformation, manipulation en SQL/Python  
 ✅ **Optimiser & automatiser** : Docker, scripts et outils backend  
-✅ **Construire des systèmes solides** : Serveurs, bases de données, API sécurisées  
+✅ **Construire des systèmes solides** : Serveurs, bases de données, API sécurisées 
 
-💡 **Actuellement**, je travaille sur des projets alliant **Data, Backend et Cloud** pour mieux comprendre l’architecture des systèmes.  
+💡 **Actuellement**, je travaille sur des projets alliant **Data, Backend securite** pour mieux comprendre l’architecture des systèmes.  
 
 ---  
 
@@ -55,7 +54,7 @@
 🔹 MariaDB, Nginx & Wordpress en containers  
 
 📌 **[ft_irc](https://github.com/gchamore/ft_irc)**  
-🔹 Serveur IRC développé en **C++ (RFC 1459)**  
+🔹 Serveur IRC développé en **C++ (RFC 2812)**  
 🔹 Gestion de **clients, canaux et messages privés**  
 
 ---  
@@ -70,8 +69,7 @@
 ## 🎯 Objectifs Actuels  
 
 🔥 **Approfondir Python & SQL pour le Data Engineering**  
-⚡ **Apprendre et expérimenter avec FastAPI et Spark**  
-🔍 **Trouver une alternance en Data Engineering dès mai 2025**  
+🔍 **Trouver une alternance en Data Engineering ou software Engineering dès mai 2025**  
 
 ---  
 
