@@ -48,7 +48,7 @@
 
 📌 **[ft_transcendence](https://github.com/gchamore/ft_transcendence)**  
 🔹 Backend sécurisé avec **Node.js / Fastify / SQLite**  
-🔹 Authentification **2FA, JWT & OAuth**  
+🔹 Authentification **2FA, JWT & Google OAuth**  
 
 📌 **[Inception](https://github.com/gchamore/Inception)**  
 🔹 Infrastructure **Docker complète**  
@@ -78,7 +78,7 @@
 ## 📬 Me Contacter  
 
 📩 **Email** : [gregoire.chamorel@outlook.fr](mailto:gregoire.chamorel@outlook.fr)  
-💼 **[LinkedIn](https://www.linkedin.com/in/tonprofil)**  
+💼 **[LinkedIn]([https://www.linkedin.com/in/tonprofil](https://www.linkedin.com/in/gr%C3%A9goire-chamorel-5b400411a/))**  
 🌍 **[Mon GitHub](https://github.com/gchamore)**  
 
 ---  
