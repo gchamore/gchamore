@@ -11,9 +11,11 @@
 💡 Actuellement, je travaille sur des projets alliant Data, Backend et Cloud pour mieux comprendre l’architecture des systèmes.
 
 ⚡ Stack
+🌍 Technologies principales
+<p align="center"> <img src="https://github.com/user-attachments/assets/3f44dfa4-d325-4c26-a308-972ab27f9cdd" width="400"/> </p>
+📌 Langages & Frameworks
 
 
-![pngwing com](https://github.com/user-attachments/assets/3f44dfa4-d325-4c26-a308-972ab27f9cdd)
 
 
 
@@ -21,7 +23,7 @@
 🚀 Projets Récents
 📌 ft_transcendence
 🔹 Backend sécurisé avec Node.js / Fastify / SQLite
-🔹 Auth 2FA, JWT & OAuth
+🔹 Authentification 2FA, JWT & OAuth
 
 📌 Inception
 🔹 Infrastructure Docker complète
@@ -32,15 +34,14 @@
 🔹 Gestion de clients, canaux et messages privés
 
 📊 Stats GitHub
-
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gchamore&show_icons=true&theme=tokyonight"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gchamore&layout=compact&theme=tokyonight"/> </p>
 🎯 Objectifs Actuels
 🔥 Approfondir Python & SQL pour le Data Engineering
 ⚡ Apprendre et expérimenter avec FastAPI et Spark
 🔍 Trouver une alternance en Data Engineering dès mai 2025
 
 📬 Me Contacter
-📩 gregoire.chamorel@outlook.fr
+📩 Email : gregoire.chamorel@outlook.fr
 💼 LinkedIn
 🌍 Mon GitHub
 
