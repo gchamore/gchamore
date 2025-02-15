@@ -38,7 +38,7 @@
 </p>
 
 
-<table>
+<table border="0">
   <tr>
     <td align="center"><img src="https://github.com/user-attachments/assets/db46f740-a682-4a41-83ae-41e797ae31a8" width="100"/><br>C</td>
     <td align="center"><img src="https://github.com/user-attachments/assets/3f44dfa4-d325-4c26-a308-972ab27f9cdd" width="100"/><br>C++</td>
