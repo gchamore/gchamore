@@ -19,8 +19,11 @@
 ## ⚡ Stack  
 
 ### 🌍 Technologies principales  
-<p align="center"> <img src="https://github.com/user-attachments/assets/db46f740-a682-4a41-83ae-41e797ae31a8" width="100"/> </p>
-<p align="center"> <img src="https://github.com/user-attachments/assets/3f44dfa4-d325-4c26-a308-972ab27f9cdd" width="100"/> </p>
+<p>
+  <img src="https://github.com/user-attachments/assets/db46f740-a682-4a41-83ae-41e797ae31a8" width="100"/>
+  <img src="https://github.com/user-attachments/assets/3f44dfa4-d325-4c26-a308-972ab27f9cdd" width="100"/>
+</p>
+
 
 📌 **Langages & Frameworks**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
