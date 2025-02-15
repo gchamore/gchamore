@@ -78,7 +78,7 @@
 ## 📬 Me Contacter  
 
 📩 **Email** : [gregoire.chamorel@outlook.fr](mailto:gregoire.chamorel@outlook.fr)  
-💼 **[LinkedIn]([https://www.linkedin.com/in/tonprofil](https://www.linkedin.com/in/gr%C3%A9goire-chamorel-5b400411a/))**  
+💼 **[LinkedIn](https://www.linkedin.com/in/tonprofil](https://www.linkedin.com/in/gr%C3%A9goire-chamorel-5b400411a/)**  
 🌍 **[Mon GitHub](https://github.com/gchamore)**  
 
 ---  
