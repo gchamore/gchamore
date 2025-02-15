@@ -49,7 +49,7 @@
   </tr>
 </table>
 
-<table>
+<table border="0">
   <tr>
     <td align="center"><img src="https://github.com/user-attachments/assets/d14b3b0c-7539-4db4-9211-8b9ade75bead" width="100"/><br>Docker</td>
     <td align="center"><img src="https://github.com/user-attachments/assets/f3219eac-412b-4060-ab41-0276b64cc5eb" width="100"/><br>Office</td>
@@ -59,6 +59,7 @@
     <td align="center"><img src="https://github.com/user-attachments/assets/d7810e35-5d96-4a7b-ac75-33efeff63f9e" width="100"/><br>VM</td>
   </tr>
 </table>
+
 
 
 📌 **Langages & Frameworks**  
