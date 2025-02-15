@@ -1,4 +1,4 @@
-# 👋 Hello, je suis Grégoire Chamorel  
+# 👋 Hello, je suis Gregoire Chamorel (gchamore)
 
 🔍 **Passionné par la tech, la data et l’IA**  
 🎯 **Étudiant à 42 Paris & en reconversion**  
