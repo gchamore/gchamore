@@ -22,7 +22,7 @@
 
 <table>
   <tr>
-    <td align="center"><img src="https://github.com/user-attachments/assets/db46f740-a682-4a41-83ae-41e797ae31a8" width="100"/><br>![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white) </td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/db46f740-a682-4a41-83ae-41e797ae31a8" width="100"/><br>C</td>
     <td align="center"><img src="https://github.com/user-attachments/assets/3f44dfa4-d325-4c26-a308-972ab27f9cdd" width="100"/><br>C++</td>
     <td align="center"><img src="https://github.com/user-attachments/assets/bf0bb7a1-c7c0-46d6-aba6-23c92239994e" width="100"/><br>Node.js</td>
     <td align="center"><img src="https://github.com/user-attachments/assets/4f2fad10-d7c2-452a-9ef5-0da87d9bc203" width="100"/><br>VBA</td>
@@ -41,26 +41,6 @@
     <td align="center"><img src="https://github.com/user-attachments/assets/d7810e35-5d96-4a7b-ac75-33efeff63f9e" width="100"/><br>VM</td>
   </tr>
 </table>
-
-
-
-
-
-
-📌 **Langages & Frameworks**  
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
-![VBA](https://img.shields.io/badge/-VBA-217346?style=flat&logo=microsoft&logoColor=white)  
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)  
-![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=white)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-![Office](https://img.shields.io/badge/-Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
-![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)  
-![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)  
-
 
 ---  
 
