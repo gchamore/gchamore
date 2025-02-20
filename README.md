@@ -59,13 +59,6 @@
 
 ---  
 
-## 📊 Stats GitHub  
-
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=gchamore&show_icons=true&theme=tokyonight)  
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=gchamore&layout=compact&theme=tokyonight)  
-
----  
-
 ## 🎯 Objectifs Actuels  
 
 🔥 **Approfondir Python & SQL pour le Data Engineering**  
