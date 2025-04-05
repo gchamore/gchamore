@@ -62,7 +62,7 @@
 ## 🎯 Objectifs Actuels  
 
 🔥 **Approfondir Python & SQL pour le Data Engineering**  
-🔍 **Trouver une alternance en Data Engineering ou software Engineering dès mai 2025**  
+🔍 **Trouver un stage en software Engineering ou Data Engineering dès mai 2025**  
 
 ---  
 
