@@ -1,6 +1,6 @@
 # 👋 Hello, je suis Gregoire Chamorel (gchamore)
 
-🔍 **Passionné par la tech, la data et l’IA**  
+🔍 **Passionné par la programmation et la tech en général**  
 🎯 **Étudiant à 42 Paris & en reconversion**  
 🚀 **J’aime créer, automatiser et optimiser**  
 
