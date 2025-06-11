@@ -49,7 +49,7 @@
 🔹 Backend sécurisé avec **Node.js / Fastify / SQLite**  
 🔹 Authentification **2FA, JWT & Google OAuth**  
 
-📌 **[Inception](https://github.com/gchamore/Inception)**  
+📌 **[Inception](https://github.com/gchamore/42-Inception)**  
 🔹 Infrastructure **Docker complète**  
 🔹 MariaDB, Nginx & Wordpress en containers  
 
