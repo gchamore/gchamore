@@ -45,7 +45,7 @@
 
 ## 🚀 Projets Récents  
 
-📌 **[ft_transcendence](https://github.com/gchamore/ft_transcendence)**  
+📌 **[ft_transcendence](https://github.com/gchamore/42-ft_transcendence)**  
 🔹 Backend sécurisé avec **Node.js / Fastify / SQLite**  
 🔹 Authentification **2FA, JWT & Google OAuth**  
 
@@ -53,7 +53,7 @@
 🔹 Infrastructure **Docker complète**  
 🔹 MariaDB, Nginx & Wordpress en containers  
 
-📌 **[ft_irc](https://github.com/gchamore/ft_irc)**  
+📌 **[ft_irc](https://github.com/gchamore/42-Inception)**  
 🔹 Serveur IRC développé en **C++ (RFC 2812)**  
 🔹 Gestion de **clients, canaux et messages privés**  
 
