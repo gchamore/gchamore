@@ -53,7 +53,7 @@
 🔹 Infrastructure **Docker complète**  
 🔹 MariaDB, Nginx & Wordpress en containers  
 
-📌 **[ft_irc](https://github.com/gchamore/42-Inception)**  
+📌 **[ft_irc](https://github.com/gchamore/42-IRC)**  
 🔹 Serveur IRC développé en **C++ (RFC 2812)**  
 🔹 Gestion de **clients, canaux et messages privés**  
 
