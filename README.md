@@ -11,7 +11,7 @@
 ✅ **Optimiser & automatiser** : Docker, scripts et outils backend  
 ✅ **Construire des systèmes solides** : Serveurs, bases de données, API sécurisées 
 
-💡 **Actuellement**, je viens de finir un projet alliant **Data, Backend securite** pour mieux comprendre l’architecture des systèmes.  
+💡 **Actuellement**, je viens de terminer un projet alliant data, backend et sécurité.
 
 ---  
 
